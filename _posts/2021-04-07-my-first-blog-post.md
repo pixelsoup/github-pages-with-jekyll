@@ -1,5 +1,5 @@
 ---
 title: "YOUR-TITLE"
-date: YYYY-MM-DD
+date: 2021-April-7
 ---
 Hola. 🥨 Pretzel logic.
